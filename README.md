@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Country-neutral adapter contract that maps local source layouts onto abstract financial fields.
-- An application already using the surrounding runtime needs to connect the backend or provider implemented by financial-adapters.
+- Register a local export layout using the common country-adapter contract.
+- Map local field headers and currency tokens onto canonical financial fields.
 
 ## Links
 
