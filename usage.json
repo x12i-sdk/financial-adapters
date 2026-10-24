@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-adapters",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-adapters",
+  "usageRepository": "https://github.com/x12i-sdk/financial-adapters",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/adapters",
+  "example": {
+    "title": "Resolve a generic layout through the adapter registry",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:49.427468+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "28bc0956889a86aef8d39049386c1d475f95bc2e4508a52a3cd8354882395c7f",
+    "manifestSha256": "b630a5aa2c28244e411af289febfcd4d4d702ad329072a8699f72912d8c9600d"
+  }
+}
